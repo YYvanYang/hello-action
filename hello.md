@@ -1,0 +1,1 @@
+We toast the Lisp programmer who pens his thoughts within nests of parentheses.
